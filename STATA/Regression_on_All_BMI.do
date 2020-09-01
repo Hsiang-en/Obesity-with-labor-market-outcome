@@ -101,7 +101,7 @@ Self_employed age famsize yearsonjob if sex==2, rob
 
 
 
-/*反璞歸真*/
+/**/
 reg earnings_log Obesity bmicalc if sex==1, rob
 
 reg earnings_log Obesity bmicalc if sex==2, rob
